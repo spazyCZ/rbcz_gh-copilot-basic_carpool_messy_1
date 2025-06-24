@@ -1,10 +1,14 @@
 # rbcz_gh-copilot-basic_carpool_messy_1
 badly written Flask GUI application for parking reservations
 
-Context:
+## Context:
 I have a poorly written Flask application with a simple GUI (HTML templates or Flask-Admin) for maintaining reservations of parking places. The code lacks structure, uses poor variable names, mixes logic and presentation, and has minimal error handling. The goal is to review, refactor, and improve this application step-by-step with your help.
 
-Key Features:
+## Key Features:
+
+Database revasarvation and parking places store to file
+
+Simple GUI for managing parking reservations
 
 List available parking places
 
@@ -28,7 +32,7 @@ Outdated Flask patterns (e.g., using Flask extensions poorly)
 
 No tests
 
-Request:
+## Request:
 
 Read through the code and point out the main issues (bad patterns, security risks, maintainability problems, anti-patterns, etc).
 
@@ -38,7 +42,8 @@ Begin the refactoring process, starting with structuring the codebase and improv
 
 For each step, explain the changes and why you’re making them.
 
-Intention:
+
+## Intention:
 I want to use this as a live exercise for onboarding with Copilot and learning good coding practices in Flask.
 
 

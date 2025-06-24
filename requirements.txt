@@ -1,0 +1,6 @@
+# BAD: No version pinning, mixing different packages, including built-in modules
+flask
+json
+datetime
+os
+random

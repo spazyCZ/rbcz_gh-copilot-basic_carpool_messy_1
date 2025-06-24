@@ -1,0 +1,14 @@
+{
+  "parking_spots": [
+    {"id": "A1", "status": "free", "location": "Level A"},
+    {"id": "A2", "status": "free", "location": "Level A"},
+    {"id": "A3", "status": "free", "location": "Level A"},
+    {"id": "B1", "status": "free", "location": "Level B"},
+    {"id": "B2", "status": "free", "location": "Level B"},
+    {"id": "B3", "status": "free", "location": "Level B"}
+  ],
+  "settings": {
+    "max_reservations": 10,
+    "admin_email": "admin@parking.com"
+  }
+}
