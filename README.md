@@ -4,7 +4,7 @@ badly written Flask GUI application for parking reservations
 Context:
 I have a poorly written Flask application with a simple GUI (HTML templates or Flask-Admin) for maintaining reservations of parking places. The code lacks structure, uses poor variable names, mixes logic and presentation, and has minimal error handling. The goal is to review, refactor, and improve this application step-by-step with your help.
 
-Key Features:
+## Key Features:
 
 List available parking places
 
@@ -28,7 +28,13 @@ Outdated Flask patterns (e.g., using Flask extensions poorly)
 
 No tests
 
-Request:
+use json files as a database
+
+use get bootstrap for the GUI
+
+
+
+## Request:
 
 Read through the code and point out the main issues (bad patterns, security risks, maintainability problems, anti-patterns, etc).
 
